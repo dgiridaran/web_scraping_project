@@ -1,0 +1,6 @@
+Flask
+pandas
+lxml
+html5lib
+BeautifulSoup4
+uwsgi
